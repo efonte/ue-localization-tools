@@ -1,0 +1,5 @@
+pylocres
+requests
+rich
+terminaltexteffects
+typer
